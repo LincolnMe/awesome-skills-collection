@@ -1,7 +1,7 @@
 # 🛠️ Awesome Developer Tools
 
 > 每日自动更新的优质开源资源集合
-> 最后更新: 2026-07-06 03:59 (UTC+8)
+> 最后更新: 2026-07-06 04:04 (UTC+8)
 
 ## 📊 统计
 
@@ -13,7 +13,7 @@
 
 | 排名 | 项目名称 | 描述 | Star ⭐ | 语言 | 更新日期 |
 |------|----------|------|---------|------|----------|
-| 1 | [n8n](<https://github.com/n8n-io/n8n>/n8n-io) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 195,328 | TypeScript | 2026-07-06 |
+| 1 | [n8n](<https://github.com/n8n-io/n8n>/n8n-io) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 195,330 | TypeScript | 2026-07-06 |
 | 2 | [prompts.chat](<https://github.com/f/prompts.chat>/f) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 164,804 | HTML | 2026-07-06 |
 | 3 | [system-prompts-and-models-of-ai-tools](<https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>/x1xhlol) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models | 141,573 | Unknown | 2026-07-06 |
 | 4 | [Flowise](<https://github.com/FlowiseAI/Flowise>/FlowiseAI) | Build AI Agents, Visually | 54,305 | TypeScript | 2026-07-06 |
@@ -33,7 +33,7 @@
 | 18 | [awesome-oss-alternatives](<https://github.com/RunaCapital/awesome-oss-alternatives>/RunaCapital) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 | 19,322 | Python | 2026-07-05 |
 | 19 | [code-review-graph](<https://github.com/tirth8205/code-review-graph>/tirth8205) | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. | 19,208 | Python | 2026-07-06 |
 | 20 | [context-mode](<https://github.com/mksglu/context-mode>/mksglu) | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks. | 18,615 | TypeScript | 2026-07-06 |
-| 21 | [oh-my-pi](<https://github.com/can1357/oh-my-pi>/can1357) | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more | 16,224 | TypeScript | 2026-07-06 |
+| 21 | [oh-my-pi](<https://github.com/can1357/oh-my-pi>/can1357) | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more | 16,225 | TypeScript | 2026-07-06 |
 | 22 | [edict](<https://github.com/cft0808/edict>/cft0808) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails | 16,156 | Python | 2026-07-06 |
 | 23 | [dagster](<https://github.com/dagster-io/dagster>/dagster-io) | An orchestration platform for the development, production, and observation of data assets. | 15,787 | Python | 2026-07-05 |
 | 24 | [trigger.dev](<https://github.com/triggerdotdev/trigger.dev>/triggerdotdev) | Trigger.dev – build and deploy fully‑managed AI agents and workflows | 15,575 | TypeScript | 2026-07-05 |
@@ -63,11 +63,11 @@
 | 48 | [awesome-workflow-engines](<https://github.com/meirwah/awesome-workflow-engines>/meirwah) | A curated list of awesome open source workflow engines | 7,866 | Unknown | 2026-07-06 |
 | 49 | [st2](<https://github.com/StackStorm/st2>/StackStorm) | StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html | 6,497 | Python | 2026-07-05 |
 | 50 | [larastan](<https://github.com/larastan/larastan>/larastan) | ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. | 6,445 | PHP | 2026-07-03 |
-| 51 | [openalternative](<https://github.com/piotrkulpinski/openalternative>/piotrkulpinski) | Curated list of open source alternatives to proprietary software. | 6,421 | Unknown | 2026-07-05 |
+| 51 | [openalternative](<https://github.com/piotrkulpinski/openalternative>/piotrkulpinski) | Curated list of open source alternatives to proprietary software. | 6,421 | Unknown | 2026-07-06 |
 | 52 | [serving](<https://github.com/knative/serving>/knative) | Kubernetes-based, scale-to-zero, request-driven compute | 6,069 | Go | 2026-07-05 |
 | 53 | [awesome-ai-system-prompts](<https://github.com/dontriskit/awesome-ai-system-prompts>/dontriskit) | 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.  | 6,065 | TypeScript | 2026-07-05 |
 | 54 | [ferret](<https://github.com/MontFerret/ferret>/MontFerret) | Declarative data automation language and Go runtime for structured extraction workflows. | 6,007 | Go | 2026-07-04 |
-| 55 | [loop-engineering](<https://github.com/cobusgreyling/loop-engineering>/cobusgreyling) | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. | 6,001 | JavaScript | 2026-07-06 |
+| 55 | [loop-engineering](<https://github.com/cobusgreyling/loop-engineering>/cobusgreyling) | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. | 6,002 | JavaScript | 2026-07-06 |
 | 56 | [up-for-grabs.net](<https://github.com/up-for-grabs/up-for-grabs.net>/up-for-grabs) | This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in! | 5,980 | JavaScript | 2026-07-05 |
 | 57 | [DevOpsGPT](<https://github.com/kuafuai/DevOpsGPT>/kuafuai) | Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. | 5,958 | HTML | 2026-07-04 |
 | 58 | [n8n-free-templates](<https://github.com/wassupjay/n8n-free-templates>/wassupjay) |  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production. | 5,922 | Unknown | 2026-07-06 |
@@ -93,7 +93,7 @@
 | 78 | [open-apps](<https://github.com/tortuvshin/open-apps>/tortuvshin) | A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to. | 4,330 | Astro | 2026-07-06 |
 | 79 | [open-claude-cowork](<https://github.com/composio-community/open-claude-cowork>/composio-community) | Open Source version of Claude Cowork with 500+ SaaS app integrations | 4,299 | JavaScript | 2026-07-05 |
 | 80 | [camunda-bpm-platform](<https://github.com/camunda/camunda-bpm-platform>/camunda) | Camunda 7 CE is End of Life (EoL). Please check out Camunda 8 instead (https://github.com/camunda/camunda) or read about Camunda 7 Enterprise End of Life (https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/) – Camunda 7 CE was a flexible framework for workflow and decision automation using BPMN and DMN. | 4,272 | Java | 2026-07-04 |
-| 81 | [tradingview-mcp](<https://github.com/tradesdontlie/tradingview-mcp>/tradesdontlie) | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation | 4,196 | JavaScript | 2026-07-06 |
+| 81 | [tradingview-mcp](<https://github.com/tradesdontlie/tradingview-mcp>/tradesdontlie) | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation | 4,197 | JavaScript | 2026-07-06 |
 | 82 | [awesome-opensource-ai](<https://github.com/alvinreal/awesome-opensource-ai>/alvinreal) | Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated. | 4,020 | Python | 2026-07-05 |
 | 83 | [awesome-selfhost-docker](<https://github.com/hotheadhacker/awesome-selfhost-docker>/hotheadhacker) | 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software. | 3,979 | HTML | 2026-07-05 |
 | 84 | [openpencil](<https://github.com/ZSeven-W/openpencil>/ZSeven-W) | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. | 3,937 | TypeScript | 2026-07-06 |
@@ -133,7 +133,7 @@
 | 118 | [danghuangshang](<https://github.com/wanikua/danghuangshang>/wanikua) | AI 朝廷搭建完整教程 - 从零基础到进阶 | 2,697 | TypeScript | 2026-07-05 |
 | 119 | [argo-events](<https://github.com/argoproj/argo-events>/argoproj) | Event-driven Automation Framework for Kubernetes | 2,674 | Go | 2026-06-22 |
 | 120 | [ccs](<https://github.com/kaitranntt/ccs>/kaitranntt) | Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. | 2,664 | TypeScript | 2026-07-05 |
-| 121 | [ODS](<https://github.com/Osmantic/ODS>/Osmantic) | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. | 2,578 | Shell | 2026-07-06 |
+| 121 | [ODS](<https://github.com/Osmantic/ODS>/Osmantic) | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. | 2,579 | Shell | 2026-07-06 |
 | 122 | [CodeMachine-CLI](<https://github.com/moazbuilds/CodeMachine-CLI>/moazbuilds) | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ | 2,505 | TypeScript | 2026-07-05 |
 | 123 | [learning-oop-in-php](<https://github.com/marcelgsantos/learning-oop-in-php>/marcelgsantos) | A collection of resources to learn object-oriented programming and related concepts for PHP developers. | 2,503 | Unknown | 2026-06-19 |
 | 124 | [HolyClaude](<https://github.com/CoderLuii/HolyClaude>/CoderLuii) | AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools | 2,409 | JavaScript | 2026-07-06 |
@@ -428,8 +428,8 @@
 | 413 | [awesome-ai-tools](<https://github.com/0voice/awesome-ai-tools>/0voice) | Curated list of awesome AI tools for developers, content creators and office workers. Free, practical and easy to use. | 395 | Unknown | 2026-07-03 |
 | 414 | [opensourceAI](<https://github.com/thebigbone/opensourceAI>/thebigbone) | A curated list of open source projects related to AI. | 393 | Unknown | 2026-06-20 |
 | 415 | [awesome-open-source-organizations](<https://github.com/Mayeu/awesome-open-source-organizations>/Mayeu) | ⚡️ A list of organizations that have open sourced everything they do | 392 | Unknown | 2026-06-28 |
-| 416 | [revup](<https://github.com/Skydio/revup>/Skydio) | Upload once to create multiple, relative PRs. Productivity-focused git tools with patch revision tracking, rebase detection and more. Uses python and git plumbing commands.  | 389 | Python | 2026-06-29 |
-| 417 | [underclassmen-opportunities](<https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities>/Jose-Gael-Cruz-Lopez) | The Underclassmen Opportunities repository is a curated list of internships, programs and resources aimed at freshmen and sophomores in tech‐related majors. The README explains that many companies have early‑career programs that do not require prior experience, and this project aggregates those opportunities for easy discovery.  | 389 | TypeScript | 2026-07-06 |
+| 416 | [underclassmen-opportunities](<https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities>/Jose-Gael-Cruz-Lopez) | The Underclassmen Opportunities repository is a curated list of internships, programs and resources aimed at freshmen and sophomores in tech‐related majors. The README explains that many companies have early‑career programs that do not require prior experience, and this project aggregates those opportunities for easy discovery.  | 390 | TypeScript | 2026-07-06 |
+| 417 | [revup](<https://github.com/Skydio/revup>/Skydio) | Upload once to create multiple, relative PRs. Productivity-focused git tools with patch revision tracking, rebase detection and more. Uses python and git plumbing commands.  | 389 | Python | 2026-06-29 |
 | 418 | [awesome-foss-apps](<https://github.com/DataDaoDe/awesome-foss-apps>/DataDaoDe) | A curated list of awesome production grade free and open source software organized by category | 387 | Unknown | 2026-07-06 |
 | 419 | [awesome-rust-formalized-reasoning](<https://github.com/newca12/awesome-rust-formalized-reasoning>/newca12) | An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification. | 386 | Unknown | 2026-06-28 |
 | 420 | [nextgen](<https://github.com/mattbrictson/nextgen>/mattbrictson) | Generate your next Rails app interactively! This template includes production-ready recommendations for testing, security, developer productivity, and modern frontends. Plus optional Vite support! ⚡️ | 385 | Ruby | 2026-07-05 |
@@ -575,7 +575,7 @@
 
 | 排名 | 项目名称 | Star ⭐ |
 |------|----------|----------|
-| 1 | [n8n](<https://github.com/n8n-io/n8n>/n8n-io) | 195,328 |
+| 1 | [n8n](<https://github.com/n8n-io/n8n>/n8n-io) | 195,330 |
 | 2 | [prompts.chat](<https://github.com/f/prompts.chat>/f) | 164,804 |
 | 3 | [system-prompts-and-models-of-ai-tools](<https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>/x1xhlol) | 141,573 |
 | 4 | [Flowise](<https://github.com/FlowiseAI/Flowise>/FlowiseAI) | 54,305 |
